@@ -6,7 +6,7 @@ Given that an enormous amount of information and data are produced at once, visu
 
 ## Tools and Technologies Used
 ### JPMorgan Chase created the Perspective tool over many years to allow users to present and manipulate data feeds visually in web applications.
-** Perspective provides a set of flexible data transforms, such as pivots, filters, and aggregations. It utilises bleeding-edge browser technology such as Web Assembly and Apache Arrow and is unmatched in browser performance. It is engineered for reliability and production-vetted on the JPMorgan Chase trading floor. Now it’s available to the development community as an open source library. **
+**Perspective provides a set of flexible data transforms, such as pivots, filters, and aggregations. It utilises bleeding-edge browser technology such as Web Assembly and Apache Arrow and is unmatched in browser performance. It is engineered for reliability and production-vetted on the JPMorgan Chase trading floor. Now it’s available to the development community as an open source library.**
 
 ## Task 1: To process the data feed of stock A and stock B’s price to enable us to analyse when trading for the stock should occur.
 - Set up your local dev environment by downloading the necessary files, tools and dependencies.
